@@ -1,3 +1,3 @@
-const username = "confidence";
-const age = 30;
+const username = "promise";
+const age = 28;
 export { username, age };
